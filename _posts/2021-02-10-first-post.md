@@ -5,6 +5,6 @@ So I've been meaning to redo my personal website for quite a while now, which is
 So we'll see how this goes! Will I make this first post, and completely abandon it later? Maybe! Will this post get lost in a sea of great content in a few months? Hopefully! Will I look back at my 20 year old self, and this post, with embarassment in a few years? Probably!
 
 <figure>
-  <img src="../images/standup.png" alt="Today's To-Do List in Tilt Brush"/>
+  <img src="../../../images/standup.png" alt="Today's To-Do List in Tilt Brush"/>
   <figcaption>A random photo from today with no relevance at all to anything else in this post.</figcaption>
 </figure>

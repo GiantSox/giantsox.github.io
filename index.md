@@ -3,7 +3,7 @@ Why hello there! You have reached the personal website of David Goodman, or as m
 - I love all things virtual, augmented, and mixed reality.
 - I recently left school, to pursue what I believe will be a more complete education through work and self-learning.
 - I was born and raised in San Francisco (by non-techie parents!), where I currently live with my family, and our Guatemalan rescue dog.
-- I've got 20 years on my age counter.
+- I've got 21 years on my age counter.
 - You can watch me awkwardly ramble about my work on camera [here](https://www.youtube.com/watch?v=TOQ7CDKj4Rk).
 
 ![Me](images/mehalfdome.jpg)
